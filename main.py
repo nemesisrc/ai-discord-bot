@@ -1,1 +1,2 @@
-# AI based discord bot
+import discord
+
