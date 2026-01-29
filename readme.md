@@ -1,4 +1,3 @@
-```markdown
 # 🤖 AI Discord Bot
 
 A sophisticated Discord bot powered by artificial intelligence, designed to provide intelligent conversations and automated responses within your Discord server.
@@ -216,21 +215,3 @@ For issues and questions:
 - 📈 Active maintenance
 
 ---
-
-**Last Updated**: January 29, 2026
-
-```
-
-Simply copy this content and replace the empty `readme.md` file. This README includes:
-
-✅ **Professional Structure**: Clear sections with navigation  
-✅ **Visual Elements**: Emojis, tables, and code blocks for readability  
-✅ **Technical Details**: Installation, configuration, and tech stack  
-✅ **Best Practices**: Development guidelines and security tips  
-✅ **Complete Guidance**: From setup through deploymentSimply copy this content and replace the empty `readme.md` file. This README includes:
-
-✅ **Professional Structure**: Clear sections with navigation  
-✅ **Visual Elements**: Emojis, tables, and code blocks for readability  
-✅ **Technical Details**: Installation, configuration, and tech stack  
-✅ **Best Practices**: Development guidelines and security tips  
-✅ **Complete Guidance**: From setup through deployment
