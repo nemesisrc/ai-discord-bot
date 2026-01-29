@@ -1,17 +1,3 @@
-User: create a professional, technical and visuallly appealing readme(markdown/.md file) for my ai discord bot project
-
-GitHub Copilot: I'll examine the existing project structure and create a professional README for your AI Discord bot. 
-
-Read [](file:///d%3A/02-software-development/gen-ai/ai-discord-bot/main.py)
-
-Read [](file:///d%3A/02-software-development/gen-ai/ai-discord-bot/requirements.txt)
-
-Read [](file:///d%3A/02-software-development/gen-ai/ai-discord-bot/readme.md)
-
-Now I'll create a professional, visually appealing README for your AI Discord bot project. Based on the dependencies, I can see you're using discord.py, FastAPI, and python-dotenv, which suggests a modern setup.
-
-Since I don't have file editing tools available, here's the comprehensive README content you should add to your readme.md file:
-
 ```markdown
 # 🤖 AI Discord Bot
 
