@@ -132,7 +132,7 @@ ai-discord-bot/
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Python Dependencies
 
 | Technology | Version | Purpose |
 |-----------|---------|---------|
